@@ -1,3 +1,8 @@
+#modifications : 
+#- loss passe de MSE à BCE
+#- images sont de pixels 3x2
+#- taille des arrays définis automatiquement
+
 from random import *
 import math
 import numpy as np
